@@ -13,7 +13,7 @@ public class Jugador {
 	private String color;
 	
 	
-	public Jugador(String nombre, Tablero tablero, String color) {
+	public Jugador(String nombre, Tablero tablero) {
 		
 		this.nombre = nombre;
 		this.tablero = tablero;
