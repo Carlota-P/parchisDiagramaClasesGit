@@ -41,8 +41,7 @@ public class Tablero {
 	}
 	
 	public int consultarNumCasillas() {
-		
-		return numCasillas;
+ 		return numCasillas;
 		
 	}
 	
