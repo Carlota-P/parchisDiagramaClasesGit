@@ -11,6 +11,7 @@ public class Ficha {
 	public Ficha() {
         this.posicion = 0;
     }
+
  
 	// MÉTODOS
 	public void mover (int pasos)
@@ -21,7 +22,5 @@ public class Ficha {
 	public int getPosicion() 
 	{
         return posicion;
-    }
-	
-
+	}
 }
